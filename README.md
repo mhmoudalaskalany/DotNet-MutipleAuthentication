@@ -6,5 +6,5 @@ Multiple Authentication scheme in .net core 5 using azure active directory authe
 
 1-Azure Active Directory
 <br/>
-2--Custom JWT Endpoint
+2-Custom JWT Endpoint
 
