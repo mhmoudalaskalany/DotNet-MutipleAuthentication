@@ -1,0 +1,151 @@
+C:\My Work\Youxel\Backend\CERQEL\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\MultipleAccessToken.exe
+C:\My Work\Youxel\Backend\CERQEL\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\MultipleAccessToken.dll
+C:\My Work\Youxel\Backend\CERQEL\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\My Work\Youxel\Backend\CERQEL\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\My Work\Youxel\Backend\CERQEL\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\My Work\Youxel\Backend\CERQEL\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\My Work\Youxel\Backend\CERQEL\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\appsettings.Development.json
+C:\My Work\Youxel\Backend\CERQEL\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\appsettings.json
+C:\My Work\Youxel\Backend\CERQEL\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\MultipleAccessToken.deps.json
+C:\My Work\Youxel\Backend\CERQEL\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\MultipleAccessToken.runtimeconfig.json
+C:\My Work\Youxel\Backend\CERQEL\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\MultipleAccessToken.runtimeconfig.dev.json
+C:\My Work\Youxel\Backend\CERQEL\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\ref\MultipleAccessToken.dll
+C:\My Work\Youxel\Backend\CERQEL\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\MultipleAccessToken.pdb
+C:\My Work\Youxel\Backend\CERQEL\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\MultipleAccessToken.xml
+C:\My Work\Youxel\Backend\CERQEL\MultipleAccessToken\MultipleAccessToken\obj\Debug\net5.0\MultipleAccessToken.csproj.AssemblyReference.cache
+C:\My Work\Youxel\Backend\CERQEL\MultipleAccessToken\MultipleAccessToken\obj\Debug\net5.0\MultipleAccessToken.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Work\Youxel\Backend\CERQEL\MultipleAccessToken\MultipleAccessToken\obj\Debug\net5.0\MultipleAccessToken.AssemblyInfoInputs.cache
+C:\My Work\Youxel\Backend\CERQEL\MultipleAccessToken\MultipleAccessToken\obj\Debug\net5.0\MultipleAccessToken.AssemblyInfo.cs
+C:\My Work\Youxel\Backend\CERQEL\MultipleAccessToken\MultipleAccessToken\obj\Debug\net5.0\MultipleAccessToken.csproj.CoreCompileInputs.cache
+C:\My Work\Youxel\Backend\CERQEL\MultipleAccessToken\MultipleAccessToken\obj\Debug\net5.0\MultipleAccessToken.MvcApplicationPartsAssemblyInfo.cs
+C:\My Work\Youxel\Backend\CERQEL\MultipleAccessToken\MultipleAccessToken\obj\Debug\net5.0\MultipleAccessToken.MvcApplicationPartsAssemblyInfo.cache
+C:\My Work\Youxel\Backend\CERQEL\MultipleAccessToken\MultipleAccessToken\obj\Debug\net5.0\staticwebassets\MultipleAccessToken.StaticWebAssets.Manifest.cache
+C:\My Work\Youxel\Backend\CERQEL\MultipleAccessToken\MultipleAccessToken\obj\Debug\net5.0\staticwebassets\MultipleAccessToken.StaticWebAssets.xml
+C:\My Work\Youxel\Backend\CERQEL\MultipleAccessToken\MultipleAccessToken\obj\Debug\net5.0\scopedcss\bundle\MultipleAccessToken.styles.css
+C:\My Work\Youxel\Backend\CERQEL\MultipleAccessToken\MultipleAccessToken\obj\Debug\net5.0\MultipleAccessToken.RazorTargetAssemblyInfo.cache
+C:\My Work\Youxel\Backend\CERQEL\MultipleAccessToken\MultipleAccessToken\obj\Debug\net5.0\MultipleAccessToken.csproj.CopyComplete
+C:\My Work\Youxel\Backend\CERQEL\MultipleAccessToken\MultipleAccessToken\obj\Debug\net5.0\MultipleAccessToken.dll
+C:\My Work\Youxel\Backend\CERQEL\MultipleAccessToken\MultipleAccessToken\obj\Debug\net5.0\ref\MultipleAccessToken.dll
+C:\My Work\Youxel\Backend\CERQEL\MultipleAccessToken\MultipleAccessToken\obj\Debug\net5.0\MultipleAccessToken.pdb
+C:\My Work\Youxel\Backend\CERQEL\MultipleAccessToken\MultipleAccessToken\obj\Debug\net5.0\MultipleAccessToken.genruntimeconfig.cache
+C:\My Work\Youxel\Backend\CERQEL\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Azure.Core.dll
+C:\My Work\Youxel\Backend\CERQEL\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Azure.Identity.dll
+C:\My Work\Youxel\Backend\CERQEL\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Azure.Security.KeyVault.Certificates.dll
+C:\My Work\Youxel\Backend\CERQEL\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Azure.Security.KeyVault.Secrets.dll
+C:\My Work\Youxel\Backend\CERQEL\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\My Work\Youxel\Backend\CERQEL\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\My Work\Youxel\Backend\CERQEL\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\My Work\Youxel\Backend\CERQEL\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\My Work\Youxel\Backend\CERQEL\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\My Work\Youxel\Backend\CERQEL\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Microsoft.Identity.Web.dll
+C:\My Work\Youxel\Backend\CERQEL\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\My Work\Youxel\Backend\CERQEL\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\My Work\Youxel\Backend\CERQEL\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\My Work\Youxel\Backend\CERQEL\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\My Work\Youxel\Backend\CERQEL\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\My Work\Youxel\Backend\CERQEL\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\My Work\Youxel\Backend\CERQEL\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\My Work\Youxel\Backend\CERQEL\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\My Work\Youxel\Backend\CERQEL\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\appsettings.Development.json
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\appsettings.json
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\MultipleAccessToken.exe
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\MultipleAccessToken.deps.json
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\MultipleAccessToken.runtimeconfig.json
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\MultipleAccessToken.runtimeconfig.dev.json
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\MultipleAccessToken.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\ref\MultipleAccessToken.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\MultipleAccessToken.pdb
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\MultipleAccessToken.xml
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\AutoMapper.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Azure.Core.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Azure.Identity.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Azure.Security.KeyVault.Certificates.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Azure.Security.KeyVault.Secrets.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\EPPlus.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\FastMember.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.AzureAD.UI.Views.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.AzureAD.UI.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Microsoft.Azure.Services.AppAuthentication.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Microsoft.Identity.Web.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Pipelines.Sockets.Unofficial.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Serilog.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Serilog.AspNetCore.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Serilog.Sinks.Async.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Serilog.Sinks.AzureTableStorage.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Serilog.Sinks.File.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Serilog.Sinks.MSSqlServer.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Serilog.Sinks.PeriodicBatching.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\ServiceStack.Common.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\ServiceStack.Interfaces.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\ServiceStack.Redis.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\ServiceStack.Text.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\StackExchange.Redis.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\System.Json.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Microsoft.WindowsAzure.Storage.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Youxel.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\bin\Debug\net5.0\Youxel.pdb
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\obj\Debug\net5.0\MultipleAccessToken.csproj.AssemblyReference.cache
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\obj\Debug\net5.0\MultipleAccessToken.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\obj\Debug\net5.0\MultipleAccessToken.AssemblyInfoInputs.cache
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\obj\Debug\net5.0\MultipleAccessToken.AssemblyInfo.cs
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\obj\Debug\net5.0\MultipleAccessToken.csproj.CoreCompileInputs.cache
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\obj\Debug\net5.0\MultipleAccessToken.MvcApplicationPartsAssemblyInfo.cs
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\obj\Debug\net5.0\MultipleAccessToken.MvcApplicationPartsAssemblyInfo.cache
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\obj\Debug\net5.0\staticwebassets\MultipleAccessToken.StaticWebAssets.Manifest.cache
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\obj\Debug\net5.0\staticwebassets\MultipleAccessToken.StaticWebAssets.xml
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\obj\Debug\net5.0\scopedcss\bundle\MultipleAccessToken.styles.css
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\obj\Debug\net5.0\MultipleAccessToken.RazorTargetAssemblyInfo.cache
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\obj\Debug\net5.0\MultipleAccessToken.csproj.CopyComplete
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\obj\Debug\net5.0\MultipleAccessToken.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\obj\Debug\net5.0\ref\MultipleAccessToken.dll
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\obj\Debug\net5.0\MultipleAccessToken.pdb
+C:\My Work\My Repos\Backend\MultipleAccessToken\MultipleAccessToken\obj\Debug\net5.0\MultipleAccessToken.genruntimeconfig.cache
